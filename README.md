@@ -1,5 +1,8 @@
 # Retail Sales Analysis using Power BI
 
+![Dashboard Preview](https://github.com/mbilalazeem/Retail-Sales-Analysis-Power-BI/blob/main/Retail%20Sales%20Analysis%20using%20Power%20BI.PNG)
+
+
 ## Project Overview
 This project showcases a detailed sales analysis using Power BI on a fictitious retail demo dataset often used for illustrating Microsoft Business Intelligence products. It provides a comprehensive breakdown of actual, forecasted, and budgeted sales, product categories, and yearly sales trends.
 
